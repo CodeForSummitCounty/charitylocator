@@ -8,7 +8,7 @@ To provide a convenient way for anyone to locate a charity (501c3) closest to th
 
 irs.gov provides a search for tax-exempt organizations here:
 
-    http://www.irs.gov/Charities-&-Non-Profits/Exempt-Organizations-Select-Check
+    <http://www.irs.gov/Charities-&-Non-Profits/Exempt-Organizations-Select-Check>
 
 The data for this is provided to general public here:
 

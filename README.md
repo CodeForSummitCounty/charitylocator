@@ -8,11 +8,11 @@ To provide a convenient way for anyone to locate a charity (501c3) closest to th
 
 irs.gov provides a search for tax-exempt organizations here:
 
-    <http://www.irs.gov/Charities-&-Non-Profits/Exempt-Organizations-Select-Check>
+<http://www.irs.gov/Charities-&-Non-Profits/Exempt-Organizations-Select-Check>
 
 The data for this is provided to general public here:
 
-    http://apps.irs.gov/app/eos/forwardToPub78Download.do
+<http://apps.irs.gov/app/eos/forwardToPub78Download.do>
 
 It is the goal of this project to:
 * Map the charities for which street addresses are easily discovered
@@ -21,6 +21,6 @@ It is the goal of this project to:
 
 ## Project Moderator's personal comments
 
-I am @gsvolt. I believe that everyone deserves to know which charities are in my surrounding area. In fact, I'd like to know about any charities around me where-ever I travel - atleast in USA.
+I am <http://www.twitter.com/gsvolt>. I believe that everyone deserves to know which charities are in my surrounding area. In fact, I'd like to know about any charities around me where-ever I travel - atleast in USA.
 
 I have realized pretty quickly that such a resource does not exist and is merited.
